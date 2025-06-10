@@ -1,6 +1,10 @@
 <?php include('./includes/head.php'); ?>
-<nav class="landing-nav">
-
+<nav class="landing-nav navbar">
+    <img src="./assets/images/logo.png" class="logo" alt="">
+    <div>
+        <a href="#" class="guest-btn">Sign In</a>
+        <a href="#" class="guest-btn">Sign Up</a>
+    </div>
 </nav>
 <section class="landing-container">
     <img src="./assets/images/nike1.png" alt="">
