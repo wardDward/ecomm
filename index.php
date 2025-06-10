@@ -11,8 +11,9 @@
 <section class="landing-container">
     <img src="./assets/images/nike1.png" alt="Product image">
     <div>
-        <h2>Lorem ipsum dolor sit amet.</h2>
-        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum magni officiis id, dicta ab ratione? Numquam aperiam illum corrupti nihil.</p>
+        <h2>"Step into style. Own every moment."</h2>
+        <p class="desc">"Crafted for comfort, designed to turn heads. Discover the perfect pair that moves with you."
+</p>
     </div>
 </section>
 
