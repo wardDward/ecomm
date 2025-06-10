@@ -1,0 +1,13 @@
+<?php include('./includes/head.php'); ?>
+<nav class="landing-nav">
+
+</nav>
+<section class="landing-container">
+    <img src="./assets/images/nike1.png" alt="">
+    <div>
+        <h2>Lorem ipsum dolor sit amet.</h2>
+        <p class="desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum magni officiis id, dicta ab ratione? Numquam aperiam illum corrupti nihil.</p>
+    </div>
+</section>
+
+<?php include('./includes/footer.php'); ?>
